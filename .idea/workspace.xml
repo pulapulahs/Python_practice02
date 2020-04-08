@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b9930aa-bb74-4a38-9e17-adbb78b9d268" name="Default Changelist" comment="" />
+    <list default="true" id="1b9930aa-bb74-4a38-9e17-adbb78b9d268" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice_test/module_using_sys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_test/function1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_test/function_default.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_default.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_test/function_docstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_docstring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_test/function_global.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_global.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_test/function_keyword.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_keyword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_test/function_local.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_local.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_test/function_param.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_param.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_test/function_return.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_return.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_test/function_varargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_varargs.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +26,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZhSmHMoNuUbAVFeOkMCksOXpV5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../swt/SiWeiUIAutoTest" />
   </component>
   <component name="RecentsManager">
@@ -29,8 +48,8 @@
       <recent name="D:\Practice\practice_test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.continue">
-    <configuration name="break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.module_using_sys">
+    <configuration name="function_docstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/function_docstring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="continue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function_return" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/continue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/function_return.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function_varargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/function_varargs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/if.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/hello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="module_using_sys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/module_using_sys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.continue" />
-        <item itemvalue="Python.break" />
-        <item itemvalue="Python.for" />
-        <item itemvalue="Python.while" />
-        <item itemvalue="Python.if" />
+        <item itemvalue="Python.module_using_sys" />
+        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.function_docstring" />
+        <item itemvalue="Python.function_return" />
+        <item itemvalue="Python.function_varargs" />
       </list>
     </recent_temporary>
   </component>
@@ -159,29 +178,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1103" y="599" key="FileChooserDialogImpl" timestamp="1585808878964">
+    <state x="110" y="347" key="CommitChangelistDialog2" timestamp="1585911364622">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1103" y="599" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1585808878964" />
-    <state width="1118" height="157" key="GridCell.Tab.0.bottom" timestamp="1585826942019">
+    <state x="110" y="347" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1585911364622" />
+    <state x="1103" y="599" key="FileChooserDialogImpl" timestamp="1585912396366">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1118" height="157" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1585826942019" />
-    <state width="1118" height="157" key="GridCell.Tab.0.center" timestamp="1585826942019">
+    <state x="1103" y="599" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1585912396366" />
+    <state width="1882" height="125" key="GridCell.Tab.0.bottom" timestamp="1586261531531">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1118" height="157" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1585826942019" />
-    <state width="1118" height="157" key="GridCell.Tab.0.left" timestamp="1585826942019">
+    <state width="1882" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1586261531531" />
+    <state width="1882" height="125" key="GridCell.Tab.0.center" timestamp="1586261531531">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1118" height="157" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1585826942019" />
-    <state width="1118" height="157" key="GridCell.Tab.0.right" timestamp="1585826942019">
+    <state width="1882" height="125" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1586261531531" />
+    <state width="1882" height="125" key="GridCell.Tab.0.left" timestamp="1586261531531">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1118" height="157" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1585826942019" />
-    <state x="1203" y="481" width="672" height="678" key="search.everywhere.popup" timestamp="1585739376824">
+    <state width="1882" height="125" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1586261531531" />
+    <state width="1882" height="125" key="GridCell.Tab.0.right" timestamp="1586261531531">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1203" y="481" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1585739376824" />
+    <state width="1882" height="125" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1586261531531" />
+    <state x="1203" y="481" width="672" height="678" key="search.everywhere.popup" timestamp="1585911554969">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1203" y="481" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1585911554969" />
   </component>
 </project>
