@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b9930aa-bb74-4a38-9e17-adbb78b9d268" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice_test/module_using_sys.py" afterDir="false" />
+    <list default="true" id="1b9930aa-bb74-4a38-9e17-adbb78b9d268" name="Default Changelist" comment="hello.py">
+      <change afterPath="$PROJECT_DIR$/practice_test/ds_using_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_test/module_using_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_test/mymodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_test/mymodule_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_test/mymodule_demo2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_test/function1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_test/function_default.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_default.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_test/function_docstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_docstring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_test/function_global.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_global.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_test/function_keyword.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_keyword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_test/function_local.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_local.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_test/function_param.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_param.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_test/function_return.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_return.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_test/function_varargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/function_varargs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ZhSmHMoNuUbAVFeOkMCksOXpV5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -48,8 +44,8 @@
       <recent name="D:\Practice\practice_test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.module_using_sys">
-    <configuration name="function_docstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ds_using_list">
+    <configuration name="ds_using_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/function_docstring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/ds_using_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function_return" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="module_using_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,49 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/function_return.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="function_varargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/function_varargs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/hello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/module_using_name.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,13 +108,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mymodule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/mymodule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mymodule_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_test/mymodule_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ds_using_list" />
+        <item itemvalue="Python.mymodule_demo" />
+        <item itemvalue="Python.mymodule" />
+        <item itemvalue="Python.module_using_name" />
         <item itemvalue="Python.module_using_sys" />
-        <item itemvalue="Python.hello" />
-        <item itemvalue="Python.function_docstring" />
-        <item itemvalue="Python.function_return" />
-        <item itemvalue="Python.function_varargs" />
       </list>
     </recent_temporary>
   </component>
@@ -175,36 +171,52 @@
       <option name="presentableId" value="Default" />
       <updated>1585289989269</updated>
     </task>
+    <task id="LOCAL-00001" summary="hello.py">
+      <created>1586336139265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586336139265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello.py" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="110" y="347" key="CommitChangelistDialog2" timestamp="1585911364622">
+    <state x="110" y="347" key="CommitChangelistDialog2" timestamp="1586341547537">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="110" y="347" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1585911364622" />
+    <state x="110" y="347" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1586341547537" />
     <state x="1103" y="599" key="FileChooserDialogImpl" timestamp="1585912396366">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1103" y="599" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1585912396366" />
-    <state width="1882" height="125" key="GridCell.Tab.0.bottom" timestamp="1586261531531">
+    <state width="1882" height="125" key="GridCell.Tab.0.bottom" timestamp="1586347593537">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1882" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1586261531531" />
-    <state width="1882" height="125" key="GridCell.Tab.0.center" timestamp="1586261531531">
+    <state width="1882" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1586347593537" />
+    <state width="1882" height="125" key="GridCell.Tab.0.center" timestamp="1586347593537">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1882" height="125" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1586261531531" />
-    <state width="1882" height="125" key="GridCell.Tab.0.left" timestamp="1586261531531">
+    <state width="1882" height="125" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1586347593537" />
+    <state width="1882" height="125" key="GridCell.Tab.0.left" timestamp="1586347593537">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1882" height="125" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1586261531531" />
-    <state width="1882" height="125" key="GridCell.Tab.0.right" timestamp="1586261531531">
+    <state width="1882" height="125" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1586347593537" />
+    <state width="1882" height="125" key="GridCell.Tab.0.right" timestamp="1586347593537">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1882" height="125" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1586261531531" />
-    <state x="1203" y="481" width="672" height="678" key="search.everywhere.popup" timestamp="1585911554969">
+    <state width="1882" height="125" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1586347593537" />
+    <state x="752" y="808" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586338917442">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1203" y="481" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1585911554969" />
+    <state x="752" y="808" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1586338917442" />
+    <state x="1203" y="481" width="672" height="678" key="search.everywhere.popup" timestamp="1586347296086">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1203" y="481" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1586347296086" />
   </component>
 </project>
