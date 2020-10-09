@@ -20,3 +20,4 @@ olditem = shoplist[1]
 del shoplist[0]   # 删除指定项
 print('The first item I will buy is', olditem)
 print('My shopping list is now', shoplist)
+

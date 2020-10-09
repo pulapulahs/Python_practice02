@@ -7,4 +7,4 @@ def say(message, times=1):   # say 函数用于多次输出指定的字符串，
 
 
 say('love')  # 打印默认值次数
-say('you', 5)   # 重新指定打印次数
+say('you', 2)   # 重新指定打印次数

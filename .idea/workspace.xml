@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b9930aa-bb74-4a38-9e17-adbb78b9d268" name="Default Changelist" comment="hello.py">
-      <change afterPath="$PROJECT_DIR$/practice_test/ds_using_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_test/module_using_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_test/mymodule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_test/mymodule_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_test/mymodule_demo2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_test/ds_using_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_test/ds_using_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,7 @@
       <recent name="D:\Practice\practice_test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ds_using_list">
+  <component name="RunManager" selected="Python.module_using_sys">
     <configuration name="ds_using_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.module_using_sys" />
         <item itemvalue="Python.ds_using_list" />
         <item itemvalue="Python.mymodule_demo" />
         <item itemvalue="Python.mymodule" />
         <item itemvalue="Python.module_using_name" />
-        <item itemvalue="Python.module_using_sys" />
       </list>
     </recent_temporary>
   </component>
@@ -194,22 +190,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1103" y="599" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1585912396366" />
-    <state width="1882" height="125" key="GridCell.Tab.0.bottom" timestamp="1586347593537">
+    <state width="1882" height="125" key="GridCell.Tab.0.bottom" timestamp="1586521650369">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1882" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1586347593537" />
-    <state width="1882" height="125" key="GridCell.Tab.0.center" timestamp="1586347593537">
+    <state width="1882" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1586521650369" />
+    <state width="1882" height="125" key="GridCell.Tab.0.center" timestamp="1586521650369">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1882" height="125" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1586347593537" />
-    <state width="1882" height="125" key="GridCell.Tab.0.left" timestamp="1586347593537">
+    <state width="1882" height="125" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1586521650369" />
+    <state width="1882" height="125" key="GridCell.Tab.0.left" timestamp="1586521650369">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1882" height="125" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1586347593537" />
-    <state width="1882" height="125" key="GridCell.Tab.0.right" timestamp="1586347593537">
+    <state width="1882" height="125" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1586521650369" />
+    <state width="1882" height="125" key="GridCell.Tab.0.right" timestamp="1586521650369">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1882" height="125" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1586347593537" />
+    <state width="1882" height="125" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1586521650369" />
     <state x="752" y="808" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586338917442">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
